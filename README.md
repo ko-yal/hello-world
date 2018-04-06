@@ -1,2 +1,3 @@
 # hello-world
-starting tutorial
+starting tutorial - hello everyone,
+this is a practise to use GitHub
